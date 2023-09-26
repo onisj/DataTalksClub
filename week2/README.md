@@ -1,4 +1,4 @@
-## Homework
+## Homework Instructions
 
 > Note: sometimes your answer doesn't match one of 
 > the options exactly. That's fine. 
